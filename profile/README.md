@@ -72,17 +72,6 @@ The engine is currently under development and evolving rapidly.
 | Tools | Development utilities and internal tools |
 | Experiments | Experimental graphics and technology projects |
 
----
-
-# Support the Project
-
-If you enjoy our work and want to support development:
-
-<a href="https://buymeacoffee.com/YOURUSER">
-<img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=☕&slug=YOURUSER&button_colour=FFDD00&font_colour=000000&outline_colour=000000&coffee_colour=ffffff">
-</a>
-
-Supporting helps us continue developing new tools and technologies.
 
 ---
 
