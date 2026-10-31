@@ -16,11 +16,11 @@
 
 Tervia Interactive is an independent software development organization exploring how software can work, feel, and fit together.
 
-Today, our work is centered on one active project: tach. We enjoy understanding the whole stack — not only making something run, but thinking through how it should behave, how people should use it, and what makes it worth using.
+Today, our work is centered on one active project: tach. Other repositories in this organization represent past experiments or archived work, not currently maintained projects. We enjoy understanding the whole stack — not only making something run, but thinking through how it should behave, how people should use it, and what makes it worth using.
 
 We value software that can be understood, changed, and improved. Not every project has to follow an established formula, and not every experiment has to become a product.
 
-## Projects
+## Current project
 
 ### [tach](https://github.com/tervia-interactive/tach)
 
@@ -43,14 +43,6 @@ These are reference points, not blueprints. The goal is not to recreate any of t
 <sub>Current architecture work: i686 and x86_64 boot targets are working; ARM32, AArch64, RISC-V 32-bit, and RISC-V 64-bit support are under development.</sub>
 
 [View tach →](https://github.com/tervia-interactive/tach)
-
-## Current focus
-
-### [tach](https://github.com/tervia-interactive/tach)
-
-tach is the active project at Tervia Interactive. It is where our current development, research, and engineering effort is going. The other repositories in this organization are past experiments or archived work; they are not currently maintained projects.
-
-[Explore tach →](https://github.com/tervia-interactive/tach)
 
 ## How we approach software
 
