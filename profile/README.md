@@ -16,7 +16,7 @@
 
 Tervia Interactive is an independent software development organization exploring how software can work, feel, and fit together.
 
-Our projects range from low-level operating-system development to desktop platforms, utilities, and interactive experiments. We enjoy understanding the whole stack — not only making something run, but thinking through how it should behave, how people should use it, and what makes it worth using.
+Today, our work is centered on one active project: tach. We enjoy understanding the whole stack — not only making something run, but thinking through how it should behave, how people should use it, and what makes it worth using.
 
 We value software that can be understood, changed, and improved. Not every project has to follow an established formula, and not every experiment has to become a product.
 
@@ -44,15 +44,13 @@ These are reference points, not blueprints. The goal is not to recreate any of t
 
 [View tach →](https://github.com/tervia-interactive/tach)
 
-### [Fanne Linux](https://github.com/tervia-interactive/fanne-linux)
+## Current focus
 
-**A desktop distribution built on Debian Unstable.**
+### [tach](https://github.com/tervia-interactive/tach)
 
-Fanne Linux is a rolling Linux distribution focused on the desktop. It aims to provide a polished, dependable environment while keeping the system understandable, rebuildable, and open to modification.
+tach is the active project at Tervia Interactive. It is where our current development, research, and engineering effort is going. The other repositories in this organization are past experiments or archived work; they are not currently maintained projects.
 
-The project is currently in its bootstrap stage. Its development image is a work in progress and is not yet intended for daily use.
-
-[View Fanne Linux →](https://github.com/tervia-interactive/fanne-linux)
+[Explore tach →](https://github.com/tervia-interactive/tach)
 
 ## How we approach software
 
